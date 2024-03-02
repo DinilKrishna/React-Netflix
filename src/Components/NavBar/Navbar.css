@@ -14,12 +14,12 @@
     /* position: fixed;
     left: 20px;
     width: 80px; */
-    @apply fixed left-5 w-20;
+    @apply fixed left-9 w-28 cursor-pointer;
 }
 
 .avatar {
     /* position: fixed;
     right: 20px;
     width: 30px; */
-    @apply fixed right-5 w-6;
+    @apply fixed right-5 w-6 cursor-pointer;
 }
